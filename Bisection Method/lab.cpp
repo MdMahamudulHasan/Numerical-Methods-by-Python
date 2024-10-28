@@ -4,7 +4,7 @@
 using namespace std;
 
 double f(double x) {
-    return 2 * x * x * x - 2 * x * x - 5;
+    return 2 * x * x * x - 2 * x - 5;
 }
 
 void bijection(double a, double b) {
